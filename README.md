@@ -1,3 +1,3 @@
-Counter project
-## one page simple layout
-## use button to increase or decrease or reset Counter
+# Counter JavaScript project
+### one page simple layout
+### use buttons to increase or decrease or reset the counter
